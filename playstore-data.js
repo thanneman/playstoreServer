@@ -45,6 +45,21 @@ module.exports = [
       "Android Ver": "4.1 and up"
     },
     {
+      "App": "Candy Crush",
+      "Category": "GAME",
+      "Rating": 3.2,
+      "Reviews": "22426677",
+      "Size": "74M",
+      "Installs": "500,000,000+",
+      "Type": "Free",
+      "Price": "0",
+      "Content Rating": "Everyone",
+      "Genres": "Casual",
+      "Last Updated": "July 5, 2018",
+      "Current Ver": "1.129.0.2",
+      "Android Ver": "4.1 and up"
+    },
+    {
       "App": "Solitaire",
       "Category": "GAME",
       "Rating": 4.7,
